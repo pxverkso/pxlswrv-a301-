@@ -4,7 +4,7 @@ The Holonomic Independent Wheel Drivetrain powered by the new REV A301 Motors fo
 <img width="619" height="435" alt="Screenshot 2026-06-08 193416" src="https://github.com/user-attachments/assets/c476370b-fcc8-488a-89e3-4a1fe240dce7" />
 
 ## [Look at the CAD on Onshape Here!](https://cad.onshape.com/documents/9ca45d00a272c79fe23287a8/w/456aecc1a4ad3860f31f4874/e/f8a2e4b2fa4b99fa0d28f041?renderMode=0&uiState=6a284847e39535e5b60e9f78)
-
+## [HC CDN STEP FILE](https://cdn.hackclub.com/019eb9c8-5963-7b5d-ac38-b528f5b133b3/PXLSWRV%20%20Final%20Assembly.zip)
 ## Explanation:
 Each PXLSWRV Module consists of two independent motors, one controls steering while one controls the drive of the wheel. Each motor is able to have different ratios since the new A301 Motor has interchangable gearboxes. Using this knowledge, the gear ratios present in the module aren't a concern as they can be overriden by the motor's gearbox. 
 
